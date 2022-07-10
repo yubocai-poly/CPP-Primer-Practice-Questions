@@ -1,6 +1,6 @@
 // C++ Primer Plus - 6th Edition 练习题
 // 蔡宇博
-// Exercise 4.7
+// Exercise 4.9
 
 /*
 完成编程练习6，但使用 new 来动态分配数组，而不是声明一个包含 3 个元素的 CandyBar 数组。
